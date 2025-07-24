@@ -33,7 +33,7 @@ Whether you're looking to streamline operations or launch new digital products, 
 A Windows WPF-based utility for safely burning firmware to kosher phones.  
 Designed for small tech shops and independent service providers.
 
-🎥 [Click to watch video demonstration](https://your-video-link.com)
+🎥 [Click to watch video demonstration](https://drive.google.com/file/d/15KEs-50wgIWsYJJ0R3f-cpXXvKUxanvT/preview)
 
 ---
 
