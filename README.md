@@ -30,7 +30,7 @@ Whether you're looking to streamline operations or launch new digital products, 
 
 ### ⚡Kosher Phone Burner
 
-A Windows WPF-based utility for safely burning firmware to kosher phones.  
+A Windows WPF-based utility for safely flashing firmware to kosher phones.  
 Designed for small tech shops and independent service providers.
 
 🎥 [Click to watch video demonstration](https://drive.google.com/file/d/15KEs-50wgIWsYJJ0R3f-cpXXvKUxanvT/preview)
